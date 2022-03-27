@@ -11,7 +11,7 @@
 - 💬 Ask me about BCI and SpaceX!
 - 📫 Contact me! 👉🏼 nebula@connect.hku.hk.
 - ⚡ Fun fact: Wanna climb more than 50 mountains in Hong Kong!  `11/50`
-- [Personal Websit](https://yazhou-z.github.io/)
+- 👻 [Personal Website](https://yazhou-z.github.io/)
   <!--
 - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...>
