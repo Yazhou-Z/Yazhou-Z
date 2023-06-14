@@ -1,15 +1,14 @@
-### Hi! This is Yazhou. 👋
+### Hey! This is Yazhou. 👋
 
-<!--
-**Yazhou-Z/Yazhou-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🦾 I’m currently working on EEG decoding.
-- 🌱 I’m currently learning deep learning and brain.
-- 👯 I’m looking to collaborate on brain-computer interface!<!-- - 🍂 I'm currently struggling with biomedical... --><!-- - 💬 Ask me about BCI and SpaceX! -->
-- 📫 Contact me! 👉🏼 nebula@connect.hku.hk.
-- ⚡ Fun fact: Wanna climb more than 50 mountains in Hong Kong!  `30/50`
-- 👻 [Personal Website](https://web.hku.hk/~nebula/)
+- 🦾 I’m currently working on neural manifold learning.
+- 🌱 I’m curious about how brain works.
+- 👯 I’m looking to collaborate on recognition and attention in visual system, neural manifold learning, face recognition and neuromodulation!<!-- - 🍂 I'm currently struggling with biomedical... --><!-- - 💬 Ask me about BCI and SpaceX! -->
+- 📫 Contact me! 👉🏼 yazhou@berkeley.edu
+- ⚡ Fun fact: Yazhou does research about face recognition, while she has face agnosia 😆
+- 👻 [Personal Website](https://yazhou-z.github.io/)
   <!--
 - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...>
+
+
+
